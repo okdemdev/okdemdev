@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**okdemdev/okdemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Junior TypeScript/JavaScript Full Stack Developer | Building Intuitive and Efficient Web Solutions
 
-Here are some ideas to get you started:
+About my skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Backend:
+
+• TypeScript, JavaScript
+• Node.js, Express.js
+• SQL, NoSQL
+
+✅ Frontend:
+
+• TypeScript, JavaScript
+• React, Next.js
+• React Query, Redux
+• CSS, Tailwind CSS, SCSS
+
+🌏 Only interested in remote work.
+
+📞 Phone: +40 756 994 393
+✉️ Email: damian@bulata.dev
