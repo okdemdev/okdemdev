@@ -6,16 +6,16 @@ About my skills:
 
 ✅ Backend:
 
-• TypeScript, JavaScript
-• Node.js, Express.js
-• SQL, NoSQL
+• TypeScript, JavaScript                                                                                                                                                                                                                                                      
+• Node.js, Express.js                                                                                                                                                                                                                                                      
+• SQL, NoSQL                                                                                                                                                                                                                                                      
 
 ✅ Frontend:
 
-• TypeScript, JavaScript
-• React, Next.js
-• React Query, Redux
-• CSS, Tailwind CSS, SCSS
+• TypeScript, JavaScript                                                                                                                                                                                                                                                      
+• React, Next.js                                                                                                                                                                                                                                                      
+• React Query, Redux                                                                                                                                                                                                                                                      
+• CSS, Tailwind CSS, SCSS                                                                                                                                                                                                                                                      
 
 🌏 Only interested in remote work.
 
