@@ -19,5 +19,5 @@ About my skills:
 
 🌏 Only interested in remote work.
 
-📞 Phone: +40 756 994 393
+📞 Phone: +40 756 994 393                                                                                                                                                                                                                                                      
 ✉️ Email: damian@bulata.dev
