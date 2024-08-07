@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍💻 Junior TypeScript/JavaScript Full Stack Developer | Building Intuitive and Efficient Web Solutions
+👨‍💻 TypeScript/JavaScript Full Stack Developer
 
 About my skills:
 
