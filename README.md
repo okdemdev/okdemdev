@@ -21,5 +21,4 @@ About my skills:
 
 📞 Phone: +40 756 994 393                                                                                                                                                                                                                                                      
 ✉️ Email: damian@bulata.dev
-
 🔵 Linkedin : https://www.linkedin.com/in/damian-alexandru-bulata/
