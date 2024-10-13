@@ -17,7 +17,7 @@ About my skills:
 • React Query, Redux                                                                                                                                                                                                                                                      
 • CSS, Tailwind CSS, SCSS                                                                                                                                                                                                                                                      
 
-🌏 Only interested in remote work.
+🌏 Location: Remote Work | Timisoara, Romania 
 
 📞 Phone: +40 756 994 393                                                                                                                                                                                                                                                      
 ✉️ Email: contact@bulatadamian.com
