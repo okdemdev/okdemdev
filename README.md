@@ -5,11 +5,13 @@
 About my skills:
 
 ✅ Backend:
+
 • TypeScript, JavaScript                                                                                                                                                                                                                                                      
 • Node.js, Express.js                                                                                                                                                                                                                                                      
 • SQL, NoSQL                                                                                                                                                                                                                                                      
 
 ✅ Frontend:
+
 • TypeScript, JavaScript                                                                                                                                                                                                                                                      
 • React, React Native, Next.js                                                                                                                                                                                                                                                   
 • React Query, Redux                                                                                                                                                                                                                                                      
