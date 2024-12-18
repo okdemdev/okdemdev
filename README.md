@@ -13,9 +13,15 @@ About my skills:
 ✅ Frontend:
 
 • TypeScript, JavaScript                                                                                                                                                                                                                                                      
-• React, Next.js                                                                                                                                                                                                                                                      
+• React, React Native, Next.js                                                                                                                                                                                                                                                   
 • React Query, Redux                                                                                                                                                                                                                                                      
 • CSS, Tailwind CSS, SCSS                                                                                                                                                                                                                                                      
+
+✅ Frontend:
+
+• Amazon Web Services (AWS)                                                                                                                                                                                                                                                      
+• Google Cloud Platform                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                    
 
 🌏 Location: Remote Work | Timisoara, Romania 
 
