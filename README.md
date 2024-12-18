@@ -17,7 +17,7 @@ About my skills:
 • React Query, Redux                                                                                                                                                                                                                                                      
 • CSS, Tailwind CSS, SCSS                                                                                                                                                                                                                                                      
 
-✅ Cloud & Services:
+✅ Cloud & Services:                                                                                                                                                                                                                                                              
 • Amazon Web Services (AWS)                                                                                                                                                                                                                                                      
 • Google Cloud Platform                                                                                                                                                                                                                                                      
                                                                                                                                                                                                                                                     
