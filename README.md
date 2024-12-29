@@ -28,3 +28,4 @@ About my skills:
 📞 Phone: +40 756 994 393                                                                                                                                                                                                                                                      
 ✉️ Email: contact@bulatadamian.com
 
+⚠️ Most of my projects are not open-source and are kept private. However, I am open to sharing or providing access to them under specific conditions. If you're interested in any of my work or want to collaborate, feel free to reach out to me directly!
